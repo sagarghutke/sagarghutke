@@ -9,7 +9,7 @@
   flag="Sip coffee";
 }
    
-- 🌱 I’m currently learning ADO.Net
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on "My own code"
 - 📫 How to reach me "say my name when you see me on the road"
 
